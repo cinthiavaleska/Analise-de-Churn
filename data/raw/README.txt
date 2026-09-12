@@ -1,17 +1,9 @@
-INSIGHT CONSULTING — PROJETO DE CHURN
-Dataset de portfólio — nível iniciante/estágio.
-Período: janeiro/2024 a dezembro/2025.
+Esta pasta contém os dados brutos utilizados no projeto de análise de churn.
 
-Problemas intencionais:
-- duplicadas exatas em customer_monthly
-- alguns nulos simples
-- espaços extras
-- maiúsculas/minúsculas inconsistentes
-- formatos diferentes de data
+Os arquivos são dados simulados para fins de estudo e portfólio.
 
-SEM NULOS em:
-- amount_paid
-- overdue_amount
-- customer_since
+customers_raw.csv
+Informações cadastrais dos clientes.
 
-Objetivo: analisar comportamento dos clientes e identificar padrões relacionados ao churn.
+customer_monthly_raw.csv
+Histórico mensal dos clientes.
